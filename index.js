@@ -21,7 +21,7 @@ let imageAlt = [];
     maxBodyLength: Infinity,
     url: 'https://api.pexels.com/v1/search?query=nature&per_page=18',
     headers: { 
-      'Authorization': 'hFKDgCcFoDmMWTyNhd2MadfbCsw0WRcFkhop2Mc9dzATLV1PoT17MwBO', 
+      'Authorization': API_KEY, 
       'Cookie': '__cf_bm=OSCikWvdaKya2CWXc0945FzlcYuPVyzGEh.qUUQGa2o-1722695637-1.0.1.1-403pEujt.P.TDnV8EtWYgBkB8A_PTgvgT7_lblc6Ak_oURxOJi8ofdKXMJERgqGUSiv19SIlozKVZml6itBIPg'
     }
   };*/
